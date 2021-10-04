@@ -1,0 +1,371 @@
+
+.page {
+    background-color: rgba(175, 171, 161, 0.356);
+    border-left: rgb(12, 12, 12) solid 3px;
+    border-right: rgb(12, 12, 12) solid 3px;
+    border-radius: 2px;
+
+}
+.main {
+    padding-top: 60px;
+
+}
+nav div a {
+    margin: 5%;
+}
+
+nav { 
+    overflow: hidden;
+    position: fixed;
+    top: 0%;
+    width: 98.5%;
+}
+
+.nav {
+    background-color: black;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    text-align: center;
+    border-bottom: solid rgb(88, 78, 78) ;
+    border-radius
+
+} 
+.a {
+    font-size:85%;
+    padding: 10px;
+    text-decoration: none;
+    color: wheat;
+    border:orange solid 2px;
+    background-color: black;
+}
+
+a:hover{
+    color: rgb(248, 6, 6);
+    cursor: pointer;
+    font-weight: bold;
+    font-family: cursive;
+}
+#home {
+    background-color: rgba(247, 247, 72, 0.527);
+    margin-left: 25%;
+    margin-right: 25%;
+    padding: 10px;
+    border: solid rgba(199, 55, 3, 0.767) 3px;
+    border-radius: 40px;
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Arial Narrow Bold', sans-serif;
+}
+
+h2 {
+    margin-bottom: 50px;
+}
+
+.light {
+    padding: 10px;
+    width: 60%;
+    border: rgb(216, 33, 33) solid 7px;
+    border-radius: 10px;
+}
+
+.samvedna {
+    text-align: center;
+    padding: 10%;
+    padding-top: 5px;
+    font-size: 20px;
+}
+
+
+.aurangabad {
+    padding-top: 0.5%;
+
+}
+
+.geca {
+    width: 50%;
+    border: rgb(216, 33, 33) solid 7px;
+    border-radius: 50%;
+    
+    
+}
+
+.college {
+    text-align: center;
+    padding: 10%;
+    padding-top: 20px;
+    padding-bottom: 80px;
+    font-size: 20px;
+}
+#about {
+    background-color: rgba(127, 247, 72, 0.527);
+    margin-left: 25%;
+    margin-right: 25%;
+    padding: 10px;
+    border: solid rgba(199, 55, 3, 0.767) 3px;
+    border-radius: 40px;
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Arial Narrow Bold', sans-serif;
+}
+
+img{
+    border-radius: 50%;
+     border: black solid 7px;
+
+    
+}
+.center {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 300px;
+  
+}
+
+
+a{
+    text-align: center;
+    background-color: rgba(235, 197, 25, 0.507);
+    color: rgb(8, 8, 236);
+    font-size: 15px;
+    padding: 10px 15px;
+    border-radius: 10px;
+    margin: 10px 10px;
+    border: rgb(255, 130, 47) solid 2px;
+    text-decoration: none;
+}
+.links {
+    text-align: center;
+    padding: 10px 10px;
+    
+}
+
+.abc:hover{
+    color: rgb(203, 4, 221);
+    cursor: pointer;
+    font-style: italic;
+    
+
+}
+
+#abc1 { 
+    color: rgb(7, 145, 231);
+}
+
+#abc2 {
+    color: rgb(226, 7, 7);
+}
+#abc3 {
+    color: rgb(3, 113, 238);
+}
+
+.about {
+    
+    padding: 8%;
+    padding-top: 20px;
+    padding-bottom: 80px;
+    font-size: 20px;
+    
+}
+
+#skills {
+    background-color: rgba(72, 197, 247, 0.527);
+    margin-left: 25%;
+    margin-right: 25%;
+    padding: 10px;
+    border: solid rgba(199, 55, 3, 0.767) 3px;
+    border-radius: 40px;
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Arial Narrow Bold', sans-serif;
+}
+
+.flex-container {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    width: 100%;
+    height: 400px;
+    border: soli 2px rgba(175, 171, 161, 0.356);;
+    align-content: flex-start;
+    overflow-y: hidden;
+    padding-left: 3%;
+    padding-right: 5%;padding-bottom: 0px;
+}
+.flex-item {
+    width: 20%;
+    height: 100px;
+    background-color: rgba(230, 130, 91, 0.548);
+    border: rgb(230, 125, 87) solid 3px;
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+    line-height: 1.5;
+    padding-top: 40px;
+    margin: 20px;
+    border-radius: 8px;
+    font-family: cursive;
+
+}
+
+#contact_me {
+    background-color: rgba(154, 72, 247, 0.527);
+    margin-left: 25%;
+    margin-right: 25%;
+    padding: 10px;
+    border: solid rgba(199, 55, 3, 0.767) 3px;
+    border-radius: 40px;
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Arial Narrow Bold', sans-serif;
+}
+
+.my-photo {
+    border-radius: 50%;
+    border: black solid 7px; 
+    
+
+}
+
+.attach {
+    text-align: center;
+    background-color: rgba(144, 235, 25, 0.507);
+    color: rgb(236, 8, 198);
+    font-size: 15px;
+    padding: 10px 15px;
+    border-radius: 10px;
+    margin: 10px 10px;
+    border: rgb(47, 144, 255) solid 2px;
+    text-decoration: none;
+}
+
+.ak {
+    text-align: center;
+    padding: 50px 10px;  
+}
+
+#ak3 {
+    color: rgb(221, 58, 58);
+}
+
+.attach:hover{
+    color: green;
+    font-size: 120%;
+    
+}
+
+#map {
+    float: left;
+    width: 400px;
+    height: 300px;
+    border: lightblue solid 4px;
+    border-radius: 10px;
+    padding: 10px;
+
+}
+
+#iframe {
+    padding-left: 10%;
+    padding-right: 10%;
+
+
+}
+
+
+.address {
+    height: 300px;
+    padding: 10px;
+    border: solidl lightblue 3px;
+    font-size: 22px;
+    padding-bottom: 80px;
+    
+}
+
+#connect {
+    background-color: rgba(247, 72, 189, 0.527);
+    margin-left: 25%;
+    margin-right: 25%;
+    padding: 10px;
+    border: solid rgba(199, 55, 3, 0.767) 3px;
+    border-radius: 40px;
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Arial Narrow Bold', sans-serif;
+}
+
+.form {
+    padding-top: 60px;
+    padding: 10px;
+    border: solid rgba(207, 85, 15, 0.719) 3px;
+    border-radius: 20px;
+    margin: 20px;
+    
+}
+
+.info {
+    border: grey solid 3px;
+    text-align: center;
+    padding: 10px;
+    border-radius: 8px;
+    background-color: rgba(135, 206, 250, 0.527);
+
+}
+
+.line {
+    border: solid grey 1px;
+}
+
+input[type="text"],
+input[type="textarea"],
+input[type="Email"],
+input[type="number"] {
+    width: 95%;    
+    padding: 10px;
+    border: solid 2px ;
+    border-radius: 5px;
+
+}
+
+button {
+    width: 35%;
+    text-align: center;
+    font-size: 20px;
+    border-radius: 20px;
+    background-color: rgba(220, 92, 252, 0.192);
+    padding: 10px;
+    cursor: pointer;
+    font-size: medium;
+    letter-spacing: 2px;
+    border: rgb(0, 165, 0) solid 2px;
+    
+
+}
+
+button:hover {
+    font-size: 110%;
+    font-family: italic;
+    font-style: italic;
+    color: rgb(243, 0, 0);
+}
+
+
+
+.footer {
+    background-color: black;
+    padding: 20px;
+    padding-top: 20px;
+    text-align: center;
+}
+
+#footer {
+
+    text-align: center;
+    background-color: black;
+    color: white;
+    font-size: 15px;
+    padding: 5px 15px;
+    margin: 10px 10px;
+    text-decoration: none;
+} 
